@@ -1,12 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mohit Pareek</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff">Mohit Pareek</span></h1>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  I’m a passionate developer from India who enjoys building digital experiences that are not just functional but elegant.<br/>
+  Whether it’s crafting seamless frontends or engineering efficient backends—I'm always up for the challenge.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-pareek09&show_icons=true&locale=en&layout=compact" alt="mohit-pareek09" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-pareek09&show_icons=true&locale=en" alt="mohit-pareek09" /></p>
+### 🧰 Tech Toolbox
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-pareek09&" alt="mohit-pareek09" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,postgres,git,postman,cpp,python,matlab" alt="Tech Stack" />
+</p>
+
+---
+
+### 💻 What I'm Currently Working On
+
+- ⚙️ Building scalable MERN-stack web apps
+- ✨ Exploring advanced UI/UX design principles
+- 🌐 Learning cloud integration with backend systems (AWS & Firebase)
+- 🧠 Enhancing problem-solving with DSA in C++ and Python
+
+---
+
+### 📊 GitHub at a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-pareek09&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-pareek09&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-pareek09&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🌟 A Bit More About Me
+
+- 🎧 Lo-fi + Coffee + Code = Productivity 💯
+- 🏏 When I’m not coding, I’m playing or waching cricket
+
+---
+
+### 🤝 Let’s Collaborate
+
+If you're working on something interesting, or just want to geek out over code and tech, feel free to connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-pareek-544759257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="prkmohit14@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+🧭 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
