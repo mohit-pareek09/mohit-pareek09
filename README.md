@@ -28,12 +28,12 @@
 ### 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit-pareek09&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-pareek09&theme=radical" width="48%" />
-</p>
-<p align="center">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-pareek09&theme=radical" width="48%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-pareek09&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-pareek09&show_icons=true&theme=radical" width="48%" />
 </p>
+<!-- <p align="center"> -->
+<!-- </p> -->
 
 ---
 
